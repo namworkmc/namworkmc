@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namworkmc&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namworkmc&hide=css)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namworkmc&hide=css&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namworkmc&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
