@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duc Nam</h1>
 <h3 align="center">A college at University of Science</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namworkmc" alt="namworkmc" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namworkmc" alt="namworkmc" /></a> </p>
 
 - 🌱 I’m currently learning **React, Hibernate and Spring**
 
