@@ -16,7 +16,7 @@
 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=namworkmc&show_icons=true&theme=dark&locale=en" alt="namworkmc" style="width: 520px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namworkmc&show_icons=true&theme=dark&locale=en&langs_count=3" alt="namworkmc" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namworkmc&show_icons=true&theme=dark&locale=en&langs_count=3&hide=css" alt="namworkmc" />
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namworkmc&theme=dark" alt="namworkmc" /></p>
